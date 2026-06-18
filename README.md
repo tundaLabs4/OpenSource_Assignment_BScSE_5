@@ -174,16 +174,16 @@ git push origin development
 
 | Member | Role | Responsibilities |
 |--------|------|------------------|
-| Member 1 | Git Lead & Database Administrator | Repository setup, README, database schema, connect.php |
-| Member 2 | Authentication Core | login.php, logout.php, loggedin.php |
-| Member 3 | User Registration & Layout | register.php, tables.php, CSS styling |
-| Member 4 | Project Ingestion Backend | editprojects.php (create/update/delete) |
-| Member 5 | Project Creation Frontend UI | projects.php (list, sort, display) |
-| Member 6 | Dashboard & Navigation | index.php, navigation integration |
-| Member 7 | Category & Status Management | cat.php, editcat.php, status.php, editstatus.php |
-| Member 8 | User Management | users.php, editusers.php |
-| Member 9 | Client-Side Validation | js/validation.js, form validation integration |
-| Member 10 | Documentation & Reporting | README.md, final report |
+| NOUMANTUNDA | Git Lead & Database Administrator | Repository setup, README, database schema, connect.php |
+| DAN KALABWE | Authentication Core | login.php, logout.php, loggedin.php |
+| EMMANUEL STANSLAUS | User Registration & Layout | register.php, tables.php, CSS styling |
+| BORN BRIAN | Project Ingestion Backend | editprojects.php (create/update/delete) |
+| FRANK GORDIUS | Project Creation Frontend UI | projects.php (list, sort, display) |
+| CHANZI ANDERSON | Dashboard & Navigation | index.php, navigation integration |
+| OMARI EZEKIEL | Category & Status Management | cat.php, editcat.php, status.php, editstatus.php |
+| MONALISA YUDAH | User Management | users.php, editusers.php |
+| GODFREY MASINE | Client-Side Validation | js/validation.js, form validation integration |
+| HELENA THEOPHIL | Documentation & Reporting | README.md, final report |
 
 ---
 
